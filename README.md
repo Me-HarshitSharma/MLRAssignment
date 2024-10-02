@@ -70,4 +70,32 @@ The final model includes the following features after preprocessing:
 
 - The final model achieved an R-squared value of `0.801`, indicating that approximately 80.1% of the variability in bike demand can be explained by the selected features.
 - Key predictors include season, year, weather conditions, feeling temperature, and wind speed.
-- The final model demonstrated a good fit, with a 0.78 R-squared value over the test dataset. The residual analysis and diagnostics indicated that the model met the assumptions of linear regression. 
+- The final model demonstrated a good fit, with a 0.78 R-squared value over the test dataset. The residual analysis and diagnostics indicated that the model met the assumptions of linear regression.
+
+
+## Dataset License
+=========================================
+License
+=========================================
+Use of this dataset in publications must be cited to the following publication:
+
+[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+
+@article{
+	year={2013},
+	issn={2192-6352},
+	journal={Progress in Artificial Intelligence},
+	doi={10.1007/s13748-013-0040-3},
+	title={Event labeling combining ensemble detectors and background knowledge},
+	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
+	publisher={Springer Berlin Heidelberg},
+	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+	author={Fanaee-T, Hadi and Gama, Joao},
+	pages={1-15}
+}
+
+=========================================
+Contact
+=========================================
+	
+For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
