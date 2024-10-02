@@ -72,6 +72,9 @@ The final model includes the following features after preprocessing:
 - Key predictors include season, year, weather conditions, feeling temperature, and wind speed.
 - The final model demonstrated a good fit, with a 0.78 R-squared value over the test dataset. The residual analysis and diagnostics indicated that the model met the assumptions of linear regression.
 
+## Contact
+Created by [@Me-HarshitSharma (https://github.com/Me-HarshitSharma)] - feel free to contact me!
+
 
 ## Dataset License
 
